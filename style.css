@@ -1,6 +1,7 @@
 img {
     height: auto;
-    width: 700;
+    width: 800px;
+    
 }
 
 body {
@@ -10,8 +11,25 @@ body {
     color: black;
 }
 
+div {
+    width: 900px;
+    margin: 0 auto;
+    
+    
+    padding: 10px;
+}
+
+#img {
+    text-align: center;
+    background-color: brown;
+    margin: 0 auto;
+}
+
 h1,h2,h3 {
     text-align: center;
+   background: tomato;
+   padding: 10px;
+
 }
 
 #jr {
@@ -24,4 +42,21 @@ h1,h2,h3 {
 
 #kp {
     background-color: darksalmon;
+}
+
+.one {
+    border: 10px solid blueviolet;
+    margin-bottom: 10px;
+}
+ 
+p { padding: 10px;
+    background-color: violet;
+}
+.p1 { padding: 10px;
+    background-color: rgb(206, 238, 130);
+}
+
+#ul {
+ font-size: 18px;
+
 }
